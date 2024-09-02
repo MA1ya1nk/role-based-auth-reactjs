@@ -29,27 +29,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
@@ -68,3 +47,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+- 👋 # Welcome to Web Crafters! 🎨
+
+Hi there! I'm **Lucky Rawat**, a passionate software developer with over 4 years of experience in the field. Welcome to my GitHub repository, where I share code and resources related to the content on my YouTube channel, **Web Crafters**.
+
+## About the Channel
+
+On **Web Crafters**, I share daily content focused on creating responsive UIs using Angular, React, and other modern web development technologies. Whether you're a beginner or an experienced developer, you'll find tutorials, tips, and tricks to enhance your skills and build amazing web applications.
+
+### What You'll Find Here
+
+- **Source Code**: Access to the code demonstrated in my YouTube tutorials.
+- **Snippets**: Handy code snippets for various UI components.
+- **Projects**: Full-fledged projects to help you practice and improve your skills.
+
+## Support & Subscribe
+
+If you find my content helpful, please consider supporting the channel by subscribing and sharing the videos. Your support helps me continue creating valuable content for the community.
+
+- **YouTube**: [@Web.Crafters](https://www.youtube.com/@Web.Crafters)
+- **Instagram**: [web.crafters2024](https://www.instagram.com/web.crafters2024)
+- **Facebook**: [Web-Crafters/61564137717276](https://www.facebook.com/people/Web-Crafters/61564137717276/)
+
+Join our community, and let's code beautiful UIs together!
+
+Happy coding! 🚀
+
